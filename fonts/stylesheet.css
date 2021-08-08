@@ -1,4 +1,14 @@
 @font-face {
+    font-family: 'AdelleSansW04';
+    src: url('AdelleSansW04-Light.woff2') format('woff2'),
+        url('AdelleSansW04-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
     font-family: 'Halvar Breit Md';
     src: url('HalvarBreit-Md.woff2') format('woff2'),
         url('HalvarBreit-Md.woff') format('woff');
@@ -15,4 +25,3 @@
     font-style: normal;
     font-display: swap;
 }
-
