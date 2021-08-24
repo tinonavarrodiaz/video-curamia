@@ -1,0 +1,1327 @@
+{
+"seo_category_infos": [
+[
+"Belleza",
+"beauty"
+],
+[
+"Danza y espectáculos",
+"dance_and_performance"
+],
+[
+"Fitness",
+"fitness"
+],
+[
+"Comida y bebida",
+"food_and_drink"
+],
+[
+"Hogar y jardinería",
+"home_and_garden"
+],
+[
+"Música",
+"music"
+],
+[
+"Artes visuales",
+"visual_arts"
+]
+],
+"logging_page_id": "profilePage_44446468168",
+"show_suggested_profiles": false,
+"show_follow_dialog": false,
+"graphql": {
+"user": {
+"biography": "A Mexican Legacy. The true taste and beauty of the rich soil from the Tequila region, combined with the best agaves and a story of tradition.",
+"blocked_by_viewer": false,
+"restricted_by_viewer": false,
+"country_block": false,
+"external_url": null,
+"external_url_linkshimmed": null,
+"edge_followed_by": {
+"count": 360
+},
+"fbid": "17841444525045808",
+"followed_by_viewer": false,
+"edge_follow": {
+"count": 166
+},
+"follows_viewer": false,
+"full_name": "Curamia Tequila",
+"has_ar_effects": false,
+"has_clips": false,
+"has_guides": false,
+"has_channel": false,
+"has_blocked_viewer": false,
+"highlight_reel_count": 0,
+"has_requested_viewer": false,
+"hide_like_and_view_counts": false,
+"id": "44446468168",
+"is_business_account": true,
+"is_professional_account": true,
+"is_joined_recently": false,
+"business_address_json": null,
+"business_contact_method": "CALL",
+"business_email": null,
+"business_phone_number": null,
+"business_category_name": "Grocery & Convenience Stores",
+"overall_category_name": null,
+"category_enum": "WINE_SPIRITS",
+"category_name": "Vinos/licores",
+"is_private": false,
+"is_verified": false,
+"edge_mutual_followed_by": {
+"count": 0,
+"edges": []
+},
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/124325366_365770267816683_5367400212641681298_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=0OoJqN4gypcAX-Tzc9i&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=ad8fb5e8ffc2a7f04b6fb627a38f4cbe&oe=612B3FA8&_nc_sid=7bff83",
+"profile_pic_url_hd": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s320x320/124325366_365770267816683_5367400212641681298_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=0OoJqN4gypcAX-Tzc9i&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=0334a372d3361e47bbeb8091b965ec09&oe=612BF460&_nc_sid=7bff83",
+"requested_by_viewer": false,
+"should_show_category": true,
+"should_show_public_contacts": false,
+"username": "curamiatequila",
+"connected_fb_page": null,
+"edge_felix_combined_post_uploads": {
+"count": 0,
+"page_info": {
+"has_next_page": false,
+"end_cursor": null
+},
+"edges": []
+},
+"edge_felix_combined_draft_uploads": {
+"count": 0,
+"page_info": {
+"has_next_page": false,
+"end_cursor": null
+},
+"edges": []
+},
+"edge_felix_video_timeline": {
+"count": 0,
+"page_info": {
+"has_next_page": false,
+"end_cursor": null
+},
+"edges": []
+},
+"edge_felix_drafts": {
+"count": 0,
+"page_info": {
+"has_next_page": false,
+"end_cursor": null
+},
+"edges": []
+},
+"edge_felix_pending_post_uploads": {
+"count": 0,
+"page_info": {
+"has_next_page": false,
+"end_cursor": null
+},
+"edges": []
+},
+"edge_felix_pending_draft_uploads": {
+"count": 0,
+"page_info": {
+"has_next_page": false,
+"end_cursor": null
+},
+"edges": []
+},
+"edge_owner_to_timeline_media": {
+"count": 13,
+"page_info": {
+"has_next_page": true,
+"end_cursor": "QVFCbHd6dTFIeUNjS19XM3hyWE42cDlIZ1czS1J0SFU2UkR6S0s0aXlvY2pfQVMxa1c5aTU2dzVTaUl1Y2RGWWNoUUNwVUt1ZUxxTE5YVWVRNjN5S2szRA=="
+},
+"edges": [
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2637223398537586085",
+"shortcode": "CSZTLVXLmWl",
+"dimensions": {
+"height": 640,
+"width": 640
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/235723339_440717756981828_7462398613832313384_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=d52PJzhYOv0AX9pYzVA&edm=ABfd0MgBAAAA&ccb=7-4&oh=49eba0ed6abfe558c5b9585556bf9890&oe=612C11B8&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Curamia Tequila",
+"followed_by_viewer": false,
+"id": "44446468168",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/124325366_365770267816683_5367400212641681298_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=0OoJqN4gypcAX-Tzc9i&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=ad8fb5e8ffc2a7f04b6fb627a38f4cbe&oe=612B3FA8&_nc_sid=7bff83",
+"username": "curamiatequila"
+},
+"x": 0.1457326892,
+"y": 0.8800322061
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACoqlAyeO1Uprg5ITgDvVydtq4HU/wAh1qjEgZuaQyDew5yc/WrME5J2vznof8ateUmOlZ0qhW46UhmmVpm2lt5PMXB+8vX+hqbbQBUd97E+2BTI4wxI709B1qLJUg0xFnaCNpPfHWqs0YXAFWM5+bI/r9Kgbljn8j/n0pDI4XMbZ646j1H+elao3EZGMH3rIcbWqbzvc/kKALRGF/H/AAqsRzirj9DVNutMkn8pU+brjmqmc5Jq1L9yqf8Aj/WkMkkGQPy/z/noRUHNTn7v+feoDQM//9k=",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y. with @curamiatequila. May be a black-and-white image of 1 person.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "Our journey begins many generations ago with the birth of Mexico’s most beautiful woman. A force for the terrain of its land and people. Her physical beauty paled in comparison to that of her heart. Many years later her truth has become mystery leading people on a search to understand the legacy she left behind.  LA MUJER MÁS BELLA \nFollow us on our journey"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 3
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1628601549,
+"edge_liked_by": {
+"count": 52
+},
+"edge_media_preview_like": {
+"count": 52
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/235723339_440717756981828_7462398613832313384_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=d52PJzhYOv0AX9pYzVA&edm=ABfd0MgBAAAA&ccb=7-4&oh=49eba0ed6abfe558c5b9585556bf9890&oe=612C11B8&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/235723339_440717756981828_7462398613832313384_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=d52PJzhYOv0AX9pYzVA&edm=ABfd0MgBAAAA&ccb=7-4&oh=dd84b2219aa5fe08d76f3cca206966b1&oe=612C1E89&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/235723339_440717756981828_7462398613832313384_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=d52PJzhYOv0AX9pYzVA&edm=ABfd0MgBAAAA&ccb=7-4&oh=06438353515a1899f7a024ad1e1c2642&oe=612BF40F&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/235723339_440717756981828_7462398613832313384_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=d52PJzhYOv0AX9pYzVA&edm=ABfd0MgBAAAA&ccb=7-4&oh=4955570db0a2629eca38734bc795413f&oe=612AD371&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/235723339_440717756981828_7462398613832313384_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=d52PJzhYOv0AX9pYzVA&edm=ABfd0MgBAAAA&ccb=7-4&oh=d921e494bf09bb640fdc2102e40e34ff&oe=612AE8B8&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/235723339_440717756981828_7462398613832313384_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=d52PJzhYOv0AX9pYzVA&edm=ABfd0MgBAAAA&ccb=7-4&oh=49eba0ed6abfe558c5b9585556bf9890&oe=612C11B8&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2635828781057513364",
+"shortcode": "CSUWE-nrxeU",
+"dimensions": {
+"height": 1080,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/233826874_1164546657399347_2302416124421814427_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mvmQPCDXBg0AX_KM3e0&edm=ABfd0MgBAAAA&ccb=7-4&oh=f7df58e2d62b327e7de46df07b573eac&oe=612B18B8&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Curamia Tequila",
+"followed_by_viewer": false,
+"id": "44446468168",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/124325366_365770267816683_5367400212641681298_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=0OoJqN4gypcAX-Tzc9i&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=ad8fb5e8ffc2a7f04b6fb627a38f4cbe&oe=612B3FA8&_nc_sid=7bff83",
+"username": "curamiatequila"
+},
+"x": 0.1714975845,
+"y": 0.8639291465
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACoqrSxgc1SkJnYIi8102xT2qPMUbcDnvgVk52WhooXZnGDy41HbAz9e+apTw/L8nbsO49RWyWVuAcH3qs8ErHYgHPU+nt7f17VzxlJO77nS4JqxitkALT/skv8AdNbb2Hy7iQCvPI4qIXIx1xXSpN7aepg4RXW68jVkkEaFyMYxn8aoOQXPXrTLiY3Z8tOIx1Pc1OMJH84LbB/wLArF6mqaixhQHpxzViOQqmeWJYL7n0/L+VV8qQCmSGGRn9OlBuSkqM3EfK/RiOCf5fnU2/pA5Jq25auIDKMFiPpWGbMg43dPauikkGM1lHGelRzcrtF/r+YrX3C0ieHIfkE5yOx/wp9zMxUpGrZYYLHoB7epq6DT8VtfqZ2MuJWVFBByoxx6dqaymb5dpA6nPFapFMNSNKxQWEqNoYgemai+zD1b86vvUFIo/9k=",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo shared by Curamia Tequila on August 08, 2021 tagging @curamiatequila. May be an image of fruit and indoor.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "The aromas of freshly grated citrus fruits and sun ripened earth open your palette to savor notes of fresh agave, pineapple and subtle notes of salted jalapeño. \nWhy don’t you tell us what you think?"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 3
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1628435298,
+"edge_liked_by": {
+"count": 33
+},
+"edge_media_preview_like": {
+"count": 33
+},
+"location": null,
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/233826874_1164546657399347_2302416124421814427_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mvmQPCDXBg0AX_KM3e0&edm=ABfd0MgBAAAA&ccb=7-4&oh=bc0f30c56c93b28e4be6484ec5caf2b4&oe=612BBB5F&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/233826874_1164546657399347_2302416124421814427_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mvmQPCDXBg0AX_KM3e0&edm=ABfd0MgBAAAA&ccb=7-4&oh=5384b064b8aa82f686723dc2cb3b673d&oe=612C196C&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/233826874_1164546657399347_2302416124421814427_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mvmQPCDXBg0AX_KM3e0&edm=ABfd0MgBAAAA&ccb=7-4&oh=1bca072a91022ffb5ccfb920602c3d99&oe=612B7924&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/233826874_1164546657399347_2302416124421814427_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mvmQPCDXBg0AX_KM3e0&edm=ABfd0MgBAAAA&ccb=7-4&oh=e518894da378cd7be74a6437d703b649&oe=612BBA7D&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/233826874_1164546657399347_2302416124421814427_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mvmQPCDXBg0AX_KM3e0&edm=ABfd0MgBAAAA&ccb=7-4&oh=5e74e4891e2d57fa0ad45ddb2a5d20f2&oe=612B1C3F&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/233826874_1164546657399347_2302416124421814427_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mvmQPCDXBg0AX_KM3e0&edm=ABfd0MgBAAAA&ccb=7-4&oh=bc0f30c56c93b28e4be6484ec5caf2b4&oe=612BBB5F&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2634607594381829726",
+"shortcode": "CSQAaX5rOZe",
+"dimensions": {
+"height": 1148,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/234025168_349318536749690_6950882894369807223_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KpB_my1EF60AX-OyHTb&edm=ABfd0MgBAAAA&ccb=7-4&oh=9bba5d6afca947e91784ba3e5ef035ba&oe=612B28BB&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": []
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACgqeUEoB7jn6juPr6flUs8iMm1evBAHtVWOQowDfdPQ/wCNSyZTLLgAnn2P+B/nUyV9UOLto+oWZKylP73I/n/KknYSStwAEXnAxkk96IwA3mE4OAO/UjjBHrTD8qsxwSxPT8sfqaduor6WIgSVC9s5NFRE7jsX/wDXRT2FuTtwMbc/jxT4pQ4Mbck8DPf/AOv/APrpypIBz831HP50qrvcB1wPUdRSvbcdr6IlEXRD1xvOPrjB/l+dV7r5FwP89TV+XagaRTuwo+XBzx0/M9axp5WJAbIzzzTVktByu3r00HRDHI/M0UqFTwfu/wCf88/lRSF8xwlkJwpY/j/OrtupJPnHII4x2PrTYRwPem3zFYsqccjpx3oSutR3s9AuWMXyxHcG53dCAOw/SqIDSfODktwM/wAv89aRHZopCSSRxyfarEH+pFCVtEDbbu9yNWwfmUHHXHBH4HNFF5wVYcHI57/nRSbaBI//2Q==",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y.. May be an image of drink.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "Curamia Tequila is as beautiful on the inside as it is on the out! Our process begins atop the Volcano of Tequila, when natural spring water trickles down the rugged cliffs to the underground wells below—natural aquifers, 70-meters beneath the earth’s surface. The volcanic soil enriches the water with essential minerals, which is harmonized with our tequila through a proprietary process. This combination of authenticity and craftsmanship, of heritage and innovation, is at the very heart of Curamia Tequila."
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 3
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1628289721,
+"edge_liked_by": {
+"count": 49
+},
+"edge_media_preview_like": {
+"count": 49
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.45.1440.1440a/s640x640/234025168_349318536749690_6950882894369807223_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KpB_my1EF60AX-OyHTb&edm=ABfd0MgBAAAA&ccb=7-4&oh=58a200eb3012f6893aeed1dab0031928&oe=612BCA39&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.45.1440.1440a/s150x150/234025168_349318536749690_6950882894369807223_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KpB_my1EF60AX-OyHTb&edm=ABfd0MgBAAAA&ccb=7-4&oh=aaf096bb091a90a090a352dda969b0fd&oe=612B5CF0&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.45.1440.1440a/s240x240/234025168_349318536749690_6950882894369807223_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KpB_my1EF60AX-OyHTb&edm=ABfd0MgBAAAA&ccb=7-4&oh=92cf10b6d312fa849c7a17c34517feac&oe=612B30EA&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.45.1440.1440a/s320x320/234025168_349318536749690_6950882894369807223_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KpB_my1EF60AX-OyHTb&edm=ABfd0MgBAAAA&ccb=7-4&oh=6fd3015b6056247fe90bdcf874325616&oe=612AFB18&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.45.1440.1440a/s480x480/234025168_349318536749690_6950882894369807223_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KpB_my1EF60AX-OyHTb&edm=ABfd0MgBAAAA&ccb=7-4&oh=6fda1afad57a72f3f06fdcc1e311439d&oe=612C20D1&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.45.1440.1440a/s640x640/234025168_349318536749690_6950882894369807223_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=KpB_my1EF60AX-OyHTb&edm=ABfd0MgBAAAA&ccb=7-4&oh=58a200eb3012f6893aeed1dab0031928&oe=612BCA39&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2632899124221773457",
+"shortcode": "CSJ783ErQaR",
+"dimensions": {
+"height": 1080,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/232609531_361433258692602_7192674539711937238_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CvGwH8boZuQAX9JVvsV&edm=ABfd0MgBAAAA&ccb=7-4&oh=bc17cb018901e1c808f5094a46edaccb&oe=612B0766&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Curamia Tequila",
+"followed_by_viewer": false,
+"id": "44446468168",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/124325366_365770267816683_5367400212641681298_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=0OoJqN4gypcAX-Tzc9i&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=ad8fb5e8ffc2a7f04b6fb627a38f4cbe&oe=612B3FA8&_nc_sid=7bff83",
+"username": "curamiatequila"
+},
+"x": 0.6014492754,
+"y": 0.5925925803
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACoqhooorzz3RaSiigAooooAXGaUL6kfnTaKBD8L/kj/AAoK+n8xTKKAsKRikoooGFFFFADgBjnrTaKKBBRRRSGf/9k=",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y. with @curamiatequila. May be an image of ‎text that says '‎HECHO a CURAMIA HISTORY OF JALISCO م‎'‎.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "Curamia’s exceptionally smooth taste- clean, extra-soft herbal finishes- is the result of our commitment to simplicity and sustainability, as well as authenticity and craftsmanship."
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 1
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1628086055,
+"edge_liked_by": {
+"count": 34
+},
+"edge_media_preview_like": {
+"count": 34
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/232609531_361433258692602_7192674539711937238_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CvGwH8boZuQAX9JVvsV&edm=ABfd0MgBAAAA&ccb=7-4&oh=77e04ac9eb108cc1f151360ad6fc8739&oe=612B9C62&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/232609531_361433258692602_7192674539711937238_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CvGwH8boZuQAX9JVvsV&edm=ABfd0MgBAAAA&ccb=7-4&oh=441c8e62f6785fa6487e9e32a495ab64&oe=612AF825&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/232609531_361433258692602_7192674539711937238_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CvGwH8boZuQAX9JVvsV&edm=ABfd0MgBAAAA&ccb=7-4&oh=b84ceecb495da7e967d3f0329511e775&oe=612C4863&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/232609531_361433258692602_7192674539711937238_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CvGwH8boZuQAX9JVvsV&edm=ABfd0MgBAAAA&ccb=7-4&oh=e9ec0360fb49f781d8713ae17d4fa14e&oe=612B8B5D&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/232609531_361433258692602_7192674539711937238_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CvGwH8boZuQAX9JVvsV&edm=ABfd0MgBAAAA&ccb=7-4&oh=95809b7c3dd943db4935e93f55211410&oe=612C029C&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/232609531_361433258692602_7192674539711937238_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=CvGwH8boZuQAX9JVvsV&edm=ABfd0MgBAAAA&ccb=7-4&oh=77e04ac9eb108cc1f151360ad6fc8739&oe=612B9C62&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2629366981025775362",
+"shortcode": "CR9Y1aYLr8C",
+"dimensions": {
+"height": 1080,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/226593182_289513826264709_392174606088633926_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OphSrfZ56y4AX9QPlDy&edm=ABfd0MgBAAAA&ccb=7-4&oh=d2e8591d79d25e1c1e2da240de5adf51&oe=612AA467&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": []
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACoq6CiovOHYMfwx/MikEzE4KFfqR/IE0BuTU0qD1GabG5kyPukfjSK5P07VPMnrcbTWjIJLGJ+2PpVb+y09TWmGzxTqoRhTLIzbh8g9M/4UsERRwS2OD1rVW0hX+EH65P8AOpwoXoAPoKVtLDu73KkXyksCWzxwpA/M0rDY2R/+urO9TxkfmKiljJPFZyjZWRald3Y9Dnmn1FGhTrUuauN7a7kPfQKy78vnBzsxx6e/41qUuAeDyKoRy+zPHatmzZzH6gHgn07/AP1vypgiTzMbRjPoKv8AQkDoKAHUUlUZJGDEAnqe59aAP//Z",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in Hudson Valley, NY. May be an image of drink and indoor.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "SAVOR LIFE with Curamia Tequila. A taste of elegance and authenticity in a glass. Coming to you 🔜"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 5
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1627664991,
+"edge_liked_by": {
+"count": 63
+},
+"edge_media_preview_like": {
+"count": 63
+},
+"location": {
+"id": "582995968",
+"has_public_page": true,
+"name": "Hudson Valley, NY",
+"slug": "hudson-valley-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/226593182_289513826264709_392174606088633926_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OphSrfZ56y4AX9QPlDy&edm=ABfd0MgBAAAA&ccb=7-4&oh=96d19e8e6cc298cd47f7d18a5ac2b6cd&oe=612A9712&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s150x150/226593182_289513826264709_392174606088633926_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OphSrfZ56y4AX9QPlDy&edm=ABfd0MgBAAAA&ccb=7-4&oh=2f502499abf77d0bfdf38c2c52c75a65&oe=612B8077&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s240x240/226593182_289513826264709_392174606088633926_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OphSrfZ56y4AX9QPlDy&edm=ABfd0MgBAAAA&ccb=7-4&oh=90fc7bfd754650b25fe4445eef8b0be5&oe=612AE33D&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s320x320/226593182_289513826264709_392174606088633926_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OphSrfZ56y4AX9QPlDy&edm=ABfd0MgBAAAA&ccb=7-4&oh=f80dd469f6ba1bdf81f8b91f1c282356&oe=612ADD87&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/226593182_289513826264709_392174606088633926_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OphSrfZ56y4AX9QPlDy&edm=ABfd0MgBAAAA&ccb=7-4&oh=ac7f8fd9567999d019553bacd703b318&oe=612C7C5D&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/226593182_289513826264709_392174606088633926_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OphSrfZ56y4AX9QPlDy&edm=ABfd0MgBAAAA&ccb=7-4&oh=96d19e8e6cc298cd47f7d18a5ac2b6cd&oe=612A9712&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2626689048146914887",
+"shortcode": "CRz38XCNK5H",
+"dimensions": {
+"height": 1350,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/224454705_343062084152379_3724102310452986577_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=l0SmxwtwHKoAX_p-O4k&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=ad9d46c1481fe3c3d8af444bc8e794a6&oe=612AD189&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Dafna Mizrahi",
+"followed_by_viewer": true,
+"id": "195607406",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/195221404_146062644238306_2601143471969793920_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=SunAas08kKAAX_-NRJz&edm=ABfd0MgBAAAA&ccb=7-4&oh=e6cc1fd54cefbc5e5d57dc306e16ace2&oe=612A967A&_nc_sid=7bff83",
+"username": "dafmizrahi"
+},
+"x": 0.7231481671,
+"y": 0.1777777821
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACEq50HFd1aTrcRh1OeAD6g45zXG28Ilbac/h296vpBc6e4aL51fA45B9mHr6foaAOtxRis6DU0mfYFI45zjitDevqKLhYXFFM81PUUUAcPazeTIH7Dr9K37qfBUD7pI5/Jh/WsCGLc6g9yP1rRvURHIQY27eBn09/6VLeth20uWG6MW42JweM5J7nqetQySOYxhj68/U/yFLKcRsSRlsYHOfU5GPbHpWezMFCt2B/rRcGi79sX0orK3mimItxDdKAvbGPwx/PFPldmkZl5+Y8/j6fTimRH96v8AvD+dIxIkfH94/wA6hl9BSZPc0oBbhhk96ePuflSUgsN8lP8AOKKkyaKLgf/Z",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y. with @dafmizrahi. May be an image of drink.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "There are thousands of years of history in our fields. Tequila Curamia, the taste of life.\n\n#tequila #tequilajalisco #tequilashots #nyctequila #tequilamexico #spirits #craftcocktails #anejo #reposado #silver #blanco #mexicanculture #tequilacocktails #shots #drinks #nyc #nyctequila #nycbartender #drinkstagram #tequilalovers #tequilalove"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 6
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1627345757,
+"edge_liked_by": {
+"count": 66
+},
+"edge_media_preview_like": {
+"count": 66
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/224454705_343062084152379_3724102310452986577_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=l0SmxwtwHKoAX_p-O4k&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=1d24cc259cf89d45546eebac0fa6bcc5&oe=612C1FFE&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s150x150/224454705_343062084152379_3724102310452986577_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=l0SmxwtwHKoAX_p-O4k&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=3455228a6cde149e91ee7f97481ae70a&oe=612BFBAC&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s240x240/224454705_343062084152379_3724102310452986577_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=l0SmxwtwHKoAX_p-O4k&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=4a407585fe35a01967bd299b8d64f165&oe=612B2D2E&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s320x320/224454705_343062084152379_3724102310452986577_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=l0SmxwtwHKoAX_p-O4k&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=8576001b8816f15135313fe404879d40&oe=612BAB14&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s480x480/224454705_343062084152379_3724102310452986577_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=l0SmxwtwHKoAX_p-O4k&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=446d7983717732378c2626321b6f23dd&oe=612BED15&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/224454705_343062084152379_3724102310452986577_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=l0SmxwtwHKoAX_p-O4k&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=1d24cc259cf89d45546eebac0fa6bcc5&oe=612C1FFE&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2625076250597620800",
+"shortcode": "CRuJPERL3xA",
+"dimensions": {
+"height": 1350,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/224273954_990337748408608_1220098944762138476_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=bYywIXvzImQAX9k59Xx&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=85a677c845e18f39efcaa3c4fec6e544&oe=612A9C00&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": []
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACEquQIgQEDjkjjnGaWRYWHzAMD7ZqvHLJJjcAsRHQdSOw/z6VYdQRgf59MVk5W2La11MW4tUDZTgHpVUQla0NskrFSQAnBJ6df61EVq009hOLSvbQpeW1FW8UVZBIl86AAjIHGcc49OKf8AbnI+VefU9qrA4qxFGZcgdgT+Xb8a5Wk3sda21Y62O44c8k5I9RUlxIXbA4HQD6f0qdLQFGB9QVI6ggetV1cg4cZbpuHT64/nW8VZeZhOV3botiDYfUfrRVnf7LRVEFOWB4m2sPoexHqP6jrVuAsVCKOc8f8A1/x7+3NbAAPB5FLtC9Bj6VFi+bSwxU2pt9Kypxg1sGsq661ZBUzRTaKYj//Z",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y.. May be an image of food, drink and indoor.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "Did someone say #nationaltequiladay ? We've got a great idea for your afternoon cocktail... #estelacantarito \n\n#tequila #tequilajalisco #tequilashots #nyctequila #tequilamexico #spirits #craftcocktails #anejo #reposado #silver #blanco #mexicanculture #tequilacocktails #shots #drinks #nyc #nyctequila #nycbartender #drinkstagram #tequilalovers #tequilalove"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 6
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1627153496,
+"edge_liked_by": {
+"count": 66
+},
+"edge_media_preview_like": {
+"count": 66
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/224273954_990337748408608_1220098944762138476_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=bYywIXvzImQAX9k59Xx&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=3491b81dac9c328621390218059088ea&oe=612BD08B&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s150x150/224273954_990337748408608_1220098944762138476_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=bYywIXvzImQAX9k59Xx&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=81ee7b23005b346b49097a4bdb8fa776&oe=612AB6DD&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s240x240/224273954_990337748408608_1220098944762138476_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=bYywIXvzImQAX9k59Xx&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=bf37d4069182c9bc6f7d5a2414352cdd&oe=612C779B&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s320x320/224273954_990337748408608_1220098944762138476_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=bYywIXvzImQAX9k59Xx&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=f117c801c980bbe3a74efd88b23acad0&oe=612C7D25&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s480x480/224273954_990337748408608_1220098944762138476_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=bYywIXvzImQAX9k59Xx&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=bcaca61f9216e33b0bb8b6bd50098e4b&oe=612C3CE4&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/224273954_990337748408608_1220098944762138476_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=bYywIXvzImQAX9k59Xx&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=3491b81dac9c328621390218059088ea&oe=612BD08B&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2608307364636818588",
+"shortcode": "CQykbqONnyc",
+"dimensions": {
+"height": 1350,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/209289856_518466949203759_1932875540465514611_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vBDL1OcmNUMAX_MQks_&edm=ABfd0MgBAAAA&ccb=7-4&oh=e688186476b20247ad93915197e1a2d5&oe=612BB0C0&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Dafna Mizrahi",
+"followed_by_viewer": true,
+"id": "195607406",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/195221404_146062644238306_2601143471969793920_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=SunAas08kKAAX_-NRJz&edm=ABfd0MgBAAAA&ccb=7-4&oh=e6cc1fd54cefbc5e5d57dc306e16ace2&oe=612A967A&_nc_sid=7bff83",
+"username": "dafmizrahi"
+},
+"x": 0.8351851702,
+"y": 0.9203704
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACEqmsLnyl8lhtKHkH3/APrml81ICyt1kLSLgEY5yASMc56dvWqryyyzrIuNpGcZBIA4KkgdCeQOfWpmlYnBBX5cD39f51Ldikrj7VpLiPc5xlsqPTByf8+lauMis5bgoCAOvPv/APXP4ilF0w4YkE9scD8cf1ouPlL+0f5xRVP7WfUfpRRdBysp2qopIXrnGf5UrffA9mP06cfjVaCQI4J74zVmWQDDFdozjdg9Cff1rO/ctJ626BKxCkjqAf0pq3IRQ4B+ZeQed2ew9OfXtT5nVRxjJ6c9aoxbhJtbBReQSOcdgD2xT0V7k6vYu5b+5H/n8KKMv6UVmWZgOanmmeYBccDoMk/oew9f1qFKsyAY/MfhiqvYLX1HwW6YHTnv0H4E4z+AI96iv0MShkIGCM8j8PwzVJ/mY55x608D+lPqhPZlzybz++PzH+FFVqKqxN/6uf/Z",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y. with @dafmizrahi. May be an image of drink.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "The versatily and uniqueness of our brand is reflected on the subtle notes that makes us special.\n\n#tequila #tequilajalisco #tequilashots #nyctequila #tequilamexico #spirits #craftcocktails #anejo #reposado #silver #blanco #mexicanculture #tequilacocktails #shots #drinks #nyc #nyctequila #nycbartender #drinkstagram #tequilalovers #tequilalove"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 1
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1625154489,
+"edge_liked_by": {
+"count": 69
+},
+"edge_media_preview_like": {
+"count": 69
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/209289856_518466949203759_1932875540465514611_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vBDL1OcmNUMAX_MQks_&edm=ABfd0MgBAAAA&ccb=7-4&oh=8b8533e77bb2011a0e8fe2ab64bcd61e&oe=612B310B&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s150x150/209289856_518466949203759_1932875540465514611_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vBDL1OcmNUMAX_MQks_&edm=ABfd0MgBAAAA&ccb=7-4&oh=4d8e2ba415e3b7ed730702102344078f&oe=612B359D&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s240x240/209289856_518466949203759_1932875540465514611_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vBDL1OcmNUMAX_MQks_&edm=ABfd0MgBAAAA&ccb=7-4&oh=3c54b5fdc36fd6ae5ee5c30eb2d6a559&oe=612C335B&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s320x320/209289856_518466949203759_1932875540465514611_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vBDL1OcmNUMAX_MQks_&edm=ABfd0MgBAAAA&ccb=7-4&oh=e62d9401a949fd9de8c621b91c394fbc&oe=612B2BE5&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s480x480/209289856_518466949203759_1932875540465514611_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vBDL1OcmNUMAX_MQks_&edm=ABfd0MgBAAAA&ccb=7-4&oh=dec27b510d1a19bcfcd9397c252cc747&oe=612A9EE4&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/209289856_518466949203759_1932875540465514611_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=vBDL1OcmNUMAX_MQks_&edm=ABfd0MgBAAAA&ccb=7-4&oh=8b8533e77bb2011a0e8fe2ab64bcd61e&oe=612B310B&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2607895704755316854",
+"shortcode": "CQxG1OFNSh2",
+"dimensions": {
+"height": 1080,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/209907430_170783498430077_6490259656358887679_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1HFuqDw6sBAAX9JB3Kh&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=4919c11434b48e066c0c8d9ed17c5a47&oe=612A8DDC&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Dafna Mizrahi",
+"followed_by_viewer": true,
+"id": "195607406",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/195221404_146062644238306_2601143471969793920_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=SunAas08kKAAX_-NRJz&edm=ABfd0MgBAAAA&ccb=7-4&oh=e6cc1fd54cefbc5e5d57dc306e16ace2&oe=612A967A&_nc_sid=7bff83",
+"username": "dafmizrahi"
+},
+"x": 0.8240740895,
+"y": 0.8867403269
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACoqoeec9aPtHvWcSST70HIXd9B+n+RQBrrJlc5H0pBNWf5ZBPpkj9MirCjAJP8An/6/alcRZaWm+ZUJbcPw/nUDSKCRnvRdgV0O18HgZ/LmrkcasjIRz65x9P1z+dVnTed46n+Y/wAetWY2yc/3xn8R1oGTPtCkjpx36ZHr3wcZpjsirkc9cYOe46/rSfeQjA64qkHoQi3Hjluw/pVMoSelWWYCIkdyf1NVvNNMB6tgkdjz/j/n2q1GMgZ7H+f+efzqif6mrVv0P4UhksYw7D3B/Ss5hjj3q/H/AK1voKot1P1NNASynCKv40ot8gHNMm+8P90VZoA//9k=",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in Tequila, Jal. with @dafmizrahi. May be an image of ‎text that says '‎ام THE TASTE OF LIFE NO BETTER MOMENT N LIFE AMEXICAN LEGACY‎'‎.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "From the rich soil of the Tequila region to your palate. \n\n#tequila #tequilajalisco #tequilashots #nyctequila #tequilamexico #spirits #craftcocktails #anejo #reposado #silver #blanco #mexicanculture #tequilacocktails #shots #drinks #nyc #nyctequila #nycbartender #drinkstagram #tequilalovers #tequilalove"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 0
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1625105415,
+"edge_liked_by": {
+"count": 45
+},
+"edge_media_preview_like": {
+"count": 45
+},
+"location": {
+"id": "108644833854092",
+"has_public_page": true,
+"name": "Tequila, Jal.",
+"slug": "tequila-jal"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/209907430_170783498430077_6490259656358887679_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1HFuqDw6sBAAX9JB3Kh&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=27f1b3468eb2b39e4e16977dde120262&oe=612A9613&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/s150x150/209907430_170783498430077_6490259656358887679_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1HFuqDw6sBAAX9JB3Kh&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=1185c108ae7ef775388276300ceca67c&oe=612C2930&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/s240x240/209907430_170783498430077_6490259656358887679_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1HFuqDw6sBAAX9JB3Kh&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=fa1edd4d714b3bdf9b8fe9cafbd812a2&oe=612B5E2A&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/s320x320/209907430_170783498430077_6490259656358887679_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1HFuqDw6sBAAX9JB3Kh&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=322a805456a5d91c54fe298786a2211a&oe=612C5E18&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/s480x480/209907430_170783498430077_6490259656358887679_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1HFuqDw6sBAAX9JB3Kh&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=bba95fcec4f8fc673b0264f8c526b1ba&oe=612C04D1&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/209907430_170783498430077_6490259656358887679_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=1HFuqDw6sBAAX9JB3Kh&tn=JAqAYQH6GxZQTRrc&edm=ABfd0MgBAAAA&ccb=7-4&oh=27f1b3468eb2b39e4e16977dde120262&oe=612A9613&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2606351779447519398",
+"shortcode": "CQrnyJlrTim",
+"dimensions": {
+"height": 1350,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/209006896_4174935739253819_501107663422301371_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=5Pq4PTA_NcYAX-XlAfe&edm=ABfd0MgBAAAA&ccb=7-4&oh=18b6c3a05adb66076790bdbba9dddbcf&oe=612A935A&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Dafna Mizrahi",
+"followed_by_viewer": true,
+"id": "195607406",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/195221404_146062644238306_2601143471969793920_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=SunAas08kKAAX_-NRJz&edm=ABfd0MgBAAAA&ccb=7-4&oh=e6cc1fd54cefbc5e5d57dc306e16ace2&oe=612A967A&_nc_sid=7bff83",
+"username": "dafmizrahi"
+},
+"x": 0.8555555344,
+"y": 0.935185194
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACEqR7aNsu3Xqe9Qm0U9P8/571O7sQ4IBC8d+cgGqFo5uJRED5ecncMnoM45/KkMkNl6GrMcSx8AY/rVqT902zl8Yy2Pbv6U3qce1ADMUU/FFAjJaRXyz7lbIyAePYj1ot5DHcqFORnH+NVcYHNT28Of3gIyOxzjjg9B7+1LcVzQ1BiZwqPtXHJz1x/OovtkUR7sTwTknp06/wBKreV9oQkkDYCVx37kH+hrPp7Dvc2P7ST+6aKx6KBDy2a1dPAddp9H/wDZax60rM/um/3JP/ZaVuwIuMqxBkj6FGP6VgZx71fsmLFyxJOxuvPY1nULZFys27Kw6ilopkH/2Q==",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y. with @dafmizrahi. May be an image of drink.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "The combination of authenticity and craftmanship, of heritage and innovation is at the very heart of Curamia Tequila.\n\n#tequila #tequilajalisco #tequilashots #nyctequila #tequilamexico #spirits #craftcocktails #anejo #reposado #silver #blanco #mexicanculture #tequilacocktails #shots #drinks #nyc #nyctequila #nycbartender #drinkstagram #tequilalovers #tequilalove"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 1
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1624921365,
+"edge_liked_by": {
+"count": 58
+},
+"edge_media_preview_like": {
+"count": 58
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/209006896_4174935739253819_501107663422301371_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=5Pq4PTA_NcYAX-XlAfe&edm=ABfd0MgBAAAA&ccb=7-4&oh=b5b4c9e6a3794dfc637d1b0c6d858994&oe=612AA92D&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s150x150/209006896_4174935739253819_501107663422301371_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=5Pq4PTA_NcYAX-XlAfe&edm=ABfd0MgBAAAA&ccb=7-4&oh=58596a60b6f9c7a606973d619667a5cb&oe=612B39BB&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s240x240/209006896_4174935739253819_501107663422301371_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=5Pq4PTA_NcYAX-XlAfe&edm=ABfd0MgBAAAA&ccb=7-4&oh=29b3c656390941a23dd3bab60f7c4456&oe=612B623D&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s320x320/209006896_4174935739253819_501107663422301371_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=5Pq4PTA_NcYAX-XlAfe&edm=ABfd0MgBAAAA&ccb=7-4&oh=c7004aaf1fef8d40b9904bf46904ef49&oe=612BCFC3&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s480x480/209006896_4174935739253819_501107663422301371_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=5Pq4PTA_NcYAX-XlAfe&edm=ABfd0MgBAAAA&ccb=7-4&oh=c1f4c98655084cad567ee5fcd1dad3ea&oe=612B7706&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/209006896_4174935739253819_501107663422301371_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=5Pq4PTA_NcYAX-XlAfe&edm=ABfd0MgBAAAA&ccb=7-4&oh=b5b4c9e6a3794dfc637d1b0c6d858994&oe=612AA92D&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2605374169620625125",
+"shortcode": "CQoJgDfNzbl",
+"dimensions": {
+"height": 1350,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/209042020_542215580439161_4825063160715564399_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=sj8b46dWJewAX8E21b9&edm=ABfd0MgBAAAA&ccb=7-4&oh=126f225ae4e15bd15e42365a0b6a0149&oe=612B06E6&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Dafna Mizrahi",
+"followed_by_viewer": true,
+"id": "195607406",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/195221404_146062644238306_2601143471969793920_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=SunAas08kKAAX_-NRJz&edm=ABfd0MgBAAAA&ccb=7-4&oh=e6cc1fd54cefbc5e5d57dc306e16ace2&oe=612A967A&_nc_sid=7bff83",
+"username": "dafmizrahi"
+},
+"x": 0.8740741014,
+"y": 0.9518518448
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACEqzYZ5HwgOVDDCkjjHORnpxxxWpcpukQ4yMkke2D/I81RtmSUEKAuOSpA4PABDHpnvT5CrZAYqxzypz+B9s8cVNirmYzL5gbtu5/A1vF/NhLJnDZxmuccAdK6X7kIwM4UdPpQ9NBrc53yDRR5jehoo1FoXIYjEG77owT7Dr+lSeWEVGzlj/InNPiV1cqwJOwj1z06e3tU8UbBlGDhcHp0wKN9v+HGtN1/wDJa2kPOxj+H9Otbw+ZQQDjAxjtwOPw70JKrDII/z9en5VTm8twTuCljyQxGPw6k/hyec1k3zaG0Vy6oufN6n8/8A69FYXk2//PU/98GinyLu/uF7R9l95uxsA350y4nYDap68cDmnjqPqKv3SgdABzWcL20YadVc54Jiq90QF+prVuAMZ96yLvt+NbRfMrmLVtCnRSUVoSf/2Q==",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y. with @dafmizrahi. May be an image of drink and indoor.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "Hey #NYC , Curamia is coming very soon!. Follow us & be part of this experience. \n\n#tequila #tequilajalisco #tequilashots #nyctequila #tequilamexico #spirits #craftcocktails #anejo #reposado #silver #blanco #mexicanculture #tequilacocktails #shots #drinks #nyc #nyctequila #nycbartender #drinkstagram #tequilalovers #tequilalove"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 4
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1624804825,
+"edge_liked_by": {
+"count": 62
+},
+"edge_media_preview_like": {
+"count": 62
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/209042020_542215580439161_4825063160715564399_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=sj8b46dWJewAX8E21b9&edm=ABfd0MgBAAAA&ccb=7-4&oh=e969e25288f3cd2f53bd43e00b1bdf12&oe=612AC1D1&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s150x150/209042020_542215580439161_4825063160715564399_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=sj8b46dWJewAX8E21b9&edm=ABfd0MgBAAAA&ccb=7-4&oh=3932bf719449619afbf43507a9e1e535&oe=612ACE07&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s240x240/209042020_542215580439161_4825063160715564399_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=sj8b46dWJewAX8E21b9&edm=ABfd0MgBAAAA&ccb=7-4&oh=497c6469a984fd20be302f5116118299&oe=612B79C1&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s320x320/209042020_542215580439161_4825063160715564399_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=sj8b46dWJewAX8E21b9&edm=ABfd0MgBAAAA&ccb=7-4&oh=91150f4a02db4d613f5d1b725e28343a&oe=612B14BF&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s480x480/209042020_542215580439161_4825063160715564399_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=sj8b46dWJewAX8E21b9&edm=ABfd0MgBAAAA&ccb=7-4&oh=1856a15e87da4feae0f74b2ef4758053&oe=612C7DFA&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/209042020_542215580439161_4825063160715564399_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=sj8b46dWJewAX8E21b9&edm=ABfd0MgBAAAA&ccb=7-4&oh=e969e25288f3cd2f53bd43e00b1bdf12&oe=612AC1D1&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+},
+{
+"node": {
+"__typename": "GraphImage",
+"id": "2603571042835688728",
+"shortcode": "CQhvhGztu0Y",
+"dimensions": {
+"height": 1350,
+"width": 1080
+},
+"display_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/p1080x1080/205990550_1270472023417930_4152263020831454849_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dpXuTpQHwwIAX_Ou9dB&edm=ABfd0MgBAAAA&ccb=7-4&oh=b091767ea4d42fbe7e163c05b4d18ee3&oe=612B53B2&_nc_sid=7bff83",
+"edge_media_to_tagged_user": {
+"edges": [
+{
+"node": {
+"user": {
+"full_name": "Dafna Mizrahi",
+"followed_by_viewer": true,
+"id": "195607406",
+"is_verified": false,
+"profile_pic_url": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/195221404_146062644238306_2601143471969793920_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_ohc=SunAas08kKAAX_-NRJz&edm=ABfd0MgBAAAA&ccb=7-4&oh=e6cc1fd54cefbc5e5d57dc306e16ace2&oe=612A967A&_nc_sid=7bff83",
+"username": "dafmizrahi"
+},
+"x": 0.8277778029,
+"y": 0.9148148298
+}
+}
+]
+},
+"fact_check_overall_rating": null,
+"fact_check_information": null,
+"gating_info": null,
+"sharing_friction_info": {
+"should_have_sharing_friction": false,
+"bloks_app_url": null
+},
+"media_overlay_info": null,
+"media_preview": "ACEqmdYkQyYBUDtzTI2jlQsnXByO4OKoRbhG2MgkHCj/AApsFtKjhTwWwOGx1+ncd6m9xtNF2eItCWDEbMcEd8dM/wAjTLNdqDecEnOAegA749e1JdeYsPluQwVhknvjv+eMf/rrJDsv3SQD6H/PHtTEdB5q/wC1+n+NFc5tHpRQI6Vwm3GQPxqvYQr5hkGTtHBPqe+KzkZpE2KpLHqf5ZP+NbEEUkEIx174PI571LfkaKN3uU9R3DCnnJyT9OP5k/pWY44z+n9fxq9qLkFM88EfjxWbuyc/pTRD3Dmin5opiLb3KxKFj+XH4n6/X3p1pcM5JOdvfPUnsKx60YP9WPx/nUvQ0TuR30u9wOwH86qg1JP94/X+gqIVS2Je4/JoptFMR//Z",
+"owner": {
+"id": "44446468168",
+"username": "curamiatequila"
+},
+"is_video": false,
+"has_upcoming_event": false,
+"accessibility_caption": "Photo by Curamia Tequila in New York City, N.Y. with @dafmizrahi. May be an image of bottle.",
+"edge_media_to_caption": {
+"edges": [
+{
+"node": {
+"text": "Curamia’s exceptionally smooth taste-clean, extra-soft, herbal finishes, is a result of our commitment to simplicity and sustainability, as well as authenticity and craftmanship.\n\n#tequila #tequilajalisco #tequilashots #nyctequila #tequilamexico #spirits #craftcocktails #anejo #reposado #silver #blanco #mexicanculture #tequilacocktails #shots #drinks #nyc #nyctequila #nycbartender #drinkstagram #tequilalovers #tequilalove"
+}
+}
+]
+},
+"edge_media_to_comment": {
+"count": 4
+},
+"comments_disabled": false,
+"taken_at_timestamp": 1624589876,
+"edge_liked_by": {
+"count": 71
+},
+"edge_media_preview_like": {
+"count": 71
+},
+"location": {
+"id": "486560663",
+"has_public_page": true,
+"name": "New York City, N.Y.",
+"slug": "new-york-city-ny"
+},
+"thumbnail_src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/205990550_1270472023417930_4152263020831454849_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dpXuTpQHwwIAX_Ou9dB&edm=ABfd0MgBAAAA&ccb=7-4&oh=58c261e9bc34da8d98206f0f1e55b84f&oe=612AC6E3&_nc_sid=7bff83",
+"thumbnail_resources": [
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s150x150/205990550_1270472023417930_4152263020831454849_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dpXuTpQHwwIAX_Ou9dB&edm=ABfd0MgBAAAA&ccb=7-4&oh=52e44591d0cce5b24276c43c6aeeb7ac&oe=612C0247&_nc_sid=7bff83",
+"config_width": 150,
+"config_height": 150
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s240x240/205990550_1270472023417930_4152263020831454849_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dpXuTpQHwwIAX_Ou9dB&edm=ABfd0MgBAAAA&ccb=7-4&oh=34783aeb25c2d585e4fc468e9561e52d&oe=612AB38F&_nc_sid=7bff83",
+"config_width": 240,
+"config_height": 240
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s320x320/205990550_1270472023417930_4152263020831454849_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dpXuTpQHwwIAX_Ou9dB&edm=ABfd0MgBAAAA&ccb=7-4&oh=3e40eb7d949bd4daaa85c903e67291ec&oe=612C6652&_nc_sid=7bff83",
+"config_width": 320,
+"config_height": 320
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/e15/c0.135.1080.1080a/s480x480/205990550_1270472023417930_4152263020831454849_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dpXuTpQHwwIAX_Ou9dB&edm=ABfd0MgBAAAA&ccb=7-4&oh=54f64cbe16f3805151f8c9bbcf47be4f&oe=612B6094&_nc_sid=7bff83",
+"config_width": 480,
+"config_height": 480
+},
+{
+"src": "https://instagram.fgdl3-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/205990550_1270472023417930_4152263020831454849_n.jpg?_nc_ht=instagram.fgdl3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=dpXuTpQHwwIAX_Ou9dB&edm=ABfd0MgBAAAA&ccb=7-4&oh=58c261e9bc34da8d98206f0f1e55b84f&oe=612AC6E3&_nc_sid=7bff83",
+"config_width": 640,
+"config_height": 640
+}
+],
+"coauthor_producers": []
+}
+}
+]
+},
+"edge_saved_media": {
+"count": 0,
+"page_info": {
+"has_next_page": false,
+"end_cursor": null
+},
+"edges": []
+},
+"edge_media_collections": {
+"count": 0,
+"page_info": {
+"has_next_page": false,
+"end_cursor": null
+},
+"edges": []
+}
+}
+},
+"toast_content_on_load": null,
+"show_view_shop": false,
+"profile_pic_edit_sync_props": null,
+"always_show_message_button_to_pro_account": false
+}
